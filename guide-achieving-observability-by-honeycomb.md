@@ -1,8 +1,8 @@
 # Metadata
-Title: Guide: Achieving Observ ability
-Author: Honeycomb
-Organization: Honeycomb
-Stars: 2 stars
+Title: Guide: Achieving Observ ability  
+Author: Honeycomb  
+Organization: Honeycomb  
+Stars: 2 stars  
 
 # Why Observability
 Software is becoming exponentially more complex.
