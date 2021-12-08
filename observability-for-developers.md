@@ -1,8 +1,8 @@
 # Metadata
-Author: Chris Engelbert
-Title: Observability for Developers
-Organizaiton: Lightstep
-Stars: 2 stars
+Author: Chris Engelbert 
+Title: Observability for Developers 
+Organizaiton: Instana, IBM 
+Stars: 2 stars 
 
 # Problems we have with observability implementation
 ## time consuming to implement observability in application code

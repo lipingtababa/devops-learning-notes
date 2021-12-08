@@ -1,8 +1,8 @@
 # Metadata
-Author: James Burns, Lightstep Head of Research
-Title: The complete guide to observability
-Organizaiton: Lightstep
-Stars: 3 stars
+Author: James Burns, Lightstep Head of Research 
+Title: The complete guide to observability 
+Organizaiton: Lightstep 
+Stars: 3 stars 
 
 # Operational Problems Unique to Distributed Systems
 1. dependencies are complex.
