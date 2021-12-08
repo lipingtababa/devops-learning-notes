@@ -1,6 +1,8 @@
 # Metadata
 Author：Lindsay Tyson, Software Engineer at Lightstep
-Title: Incident management handbook 
+Title: Incident management handbook
+Organizaiton: Lightstep
+Stars: 3 stars
 
 # Goal
 Lindsay is passionate about using distributed tracing
