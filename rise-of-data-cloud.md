@@ -7,7 +7,7 @@ Stars: 4 stars
 # Part 1
 1. Snowflake is mainly a child of VC.
 
-# Building the Company
+# The Big Idea
 ## Technologies
 1. Performance: 
     1. Use cloud's unlimited resources to do parallel computing. 
